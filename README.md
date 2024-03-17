@@ -8,7 +8,9 @@ Learn how to connect ESP32-Cam with CP2102 to capture images and input them into
 Set up a dataset with classes representing possible damage faults on bicycles.
 Learn about the YOLO algorithm and related algorithms.
 Train the YOLOv5 model.
+
 Summary of key results of the project:
 
 Detect bicycles and evaluate the extent of damage.
+
 Calculate the cost that renters need to pay and display the results on the screen.
